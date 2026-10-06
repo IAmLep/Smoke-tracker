@@ -1,0 +1,6 @@
+{
+  "name": "QuitTrack - Android 12+ Smoke Reduction Plan",
+  "description": "Scientific gradual smoking reduction app with custom pace formulas, interval countdowns, 24h baseline tracking, 2-hour check-in push notifications, and Android 12 Material You home screen widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
